@@ -1,0 +1,116 @@
+Day-01[20-02-2023]:
+===================
+	Good Morning to All...
+
+	Python Programming:
+	===================
+		- python 2.x
+		- python 3.x
+
+	Python Version Check:
+	=====================
+		- cmd
+		- python -V
+	
+	Ways to Execute Python Program:
+	===============================
+		- Basic Procedure => [Notepad + Interpreter]
+		- Advanced Editor
+		- IDLE
+		- Jupyter Notebook
+
+	Basic Procedure:
+	================
+	=> Editors -> Notepad
+	=> Interpreter
+	=> Notepad => code => .py extension
+	=> open folder path in cmd prompt
+	=> Execution:
+		=> python filename.py
+		 		or
+		=> filename.py
+
+	Advanced Editors:
+	=================
+	=> Editors like geany,sublime,atom,editplus,notepad++ etc.,
+	=> geany => new file
+	=> filename.extension => code
+	=> compile => execute [Shortcuts]
+
+	IDLE [Integrated Development Learning Environment]:
+	===================================================
+	=> InBuilt in Python software
+	=> we can execute program by clicking on the menu when file is created
+	=> Output will be displayed in the shell itself not in command prompt
+
+	Python Basics:
+	==============
+		Variables:
+		==========
+			- To store a value
+			- To change a value
+			Syntax:
+			-------
+				variablename = value
+
+		single variable with single value:
+		----------------------------------
+			Ex:
+			===
+				a = 30
+				b = 40
+				print(a)
+				print(b)
+		N number of variables with n number of values:
+		----------------------------------------------
+			Ex:
+			===
+				b,n,m = 45,45.00,True
+				print(b,n,m)
+		N number of variables with single value:
+		----------------------------------------
+			Ex:
+			===
+				d = h = k = 200
+				print(d,h,k)
+		Data Types:
+		===========
+			- int => Only integer values
+			- float => Decimal values
+			- string => enclosed with ' or "
+			- complex => real and imaginary part
+			- boolean => Either True or False
+
+		Data Type Checking:
+		===================
+			Type():
+			=======
+				- To know the data type of a variable
+				Syntax:
+				-------
+					type(variablename)
+			Ex:
+			===
+				s = 50
+				print(type(s))
+			While using print it hides the data type related to string
+
+	Task-1:
+	=======
+		- Introduction to Python
+		- History of Python
+		- Advantages and Disadvantages
+		- Applications of Python
+
+	Task-2:
+	=======
+		- Operators
+		- Conditional statements
+		- Control statements
+
+	Try to check this sites for reference
+		=> programiz.com
+		=> tutorialspoint.com
+		=> javatpoint.com
+		=> beginnersbook.com
+
