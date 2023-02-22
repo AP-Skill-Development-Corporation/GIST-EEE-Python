@@ -9,3 +9,10 @@ Python Programming for EEE
 # Day-02(21-02-2023):
   - Python Downloads,Installation and Configuration
   - Jupyter Notebook Installation and Overview of it
+
+# Day-03(22-02-2023):
+  - Markdown Format with sample examples
+  - Type method with sample example
+  - Operators overview
+  - Input and Output Formatting with sample example on each
+  - TypeCasting, Conditional statements with sample example on if
