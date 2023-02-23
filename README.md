@@ -20,4 +20,4 @@ Python Programming for EEE
 # Day-04(23-02-2023):
   - Conditional Statements remaining like if-else,nested if and elif with sample examples on each
   - Control Statements Overview,for loop with single,two and three parameters useage with sample examples on each
-  - Practised hackerrank problem statements
+  - Practiced some hackerrank problem statements
