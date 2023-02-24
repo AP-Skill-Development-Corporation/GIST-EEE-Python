@@ -21,3 +21,8 @@ Python Programming for EEE
   - Conditional Statements remaining like if-else,nested if and elif with sample examples on each
   - Control Statements Overview,for loop with single,two and three parameters useage with sample examples on each
   - Practiced some hackerrank problem statements
+
+# Day-05(24-02-2023):
+  - Control Statements [While sample examples on it]
+  - Jumping Statements and Inner loops with sample examples on it
+  - Data Structures like List,tuple and its methods with sample examples on it
