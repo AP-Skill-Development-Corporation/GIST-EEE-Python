@@ -26,3 +26,7 @@ Python Programming for EEE
   - Control Statements [While sample examples on it]
   - Jumping Statements and Inner loops with sample examples on it
   - Data Structures like List,tuple and its methods with sample examples on it
+
+# Day-06(27-02-2023):
+  - Dictionary,Set and String with methods and sample examples on each
+  - Practiced some Hackerrank Problems
